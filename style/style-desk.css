@@ -107,7 +107,6 @@
 
     .containerOrcamento > .item {
         margin: 2rem 0 0;
-        background-color: #ffffff1a;
         width: 15%;
         padding: 10px;
     }
@@ -123,11 +122,12 @@
         flex-direction: column;
         justify-content: space-around;
         text-align: center;
+        margin-bottom: 10px;
     }
 
     .containerOrcamento > .item > a > div > span {
         font-family: 'Tenor Sans';
-        font-size: 15px;
+        font-size: 12px;
         color: #ffffffba;
         margin: 10px 0;
     }
